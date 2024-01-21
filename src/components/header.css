@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Moirai+One&display=swap');
+.header_size{
+    background-image: url("https://i.pinimg.com/originals/84/4d/28/844d28d84caee970f1d0d77dc680db8d.png");
+    background-position: center;
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    background-color: aqua;
+}
+.heading{
+    text-align: center;
+    padding-top: 0px;
+    margin: 0;
+    padding-left: 0px;
+    font-family: 'Moirai One', system-ui;
+    font-size: 60px;
+    color: #980002;
+    color-scheme: dark;
+}

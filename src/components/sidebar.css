@@ -1,0 +1,32 @@
+aside{
+    float: left;
+}
+.sidebox{
+    padding-top: 90px;
+    margin: 0;
+    outline: 2px solid black;
+    width: 20%;
+    height: auto;
+}
+.navBar{
+    margin-top: 10px;
+    margin-left: 20px;
+    height: auto;
+    width: 200px;
+    background-color: #e3e0f3;
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 3px;
+    h4{  
+    align-items: center;   
+    color: 	#5d576b;
+    text-decoration: none;   
+    }
+
+}
+.navBar:hover{
+    background-color: #bcd2d0;
+}
+h2{
+    text-align: center;
+}
